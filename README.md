@@ -32,7 +32,7 @@ Esse projeto consolida todos os arquivos .csv e gera um único arquivo em excel 
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença GNU AFFERO GENERAL PUBLIC LICENSE.
 
 ---
 
